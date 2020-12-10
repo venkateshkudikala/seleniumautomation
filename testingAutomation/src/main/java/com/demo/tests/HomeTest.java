@@ -4,12 +4,11 @@ import org.testng.annotations.Test;
 
 import com.demo.pages.HomePage;
 
+
 public class HomeTest {
 
 	HomePage homePage;
 	@Test
    public void TestMethod() {
-	   System.out.println("get title");
-   }
-	
+}
 }
